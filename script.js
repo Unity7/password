@@ -128,8 +128,6 @@ return createdPassword
 }
 
 
-//////////// -- END OF FUNCTIONS SECTION --  //////////////////////////////////////////////////////////
-
 
 
 //------- MAIN FLOW FUNCTION SECTION --------//
@@ -157,6 +155,8 @@ return createdPassword
 
   }
 //-------END OF MAIN FLOW SECTION --------//
+
+//////////// -- END OF FUNCTIONS SECTION --  //////////////////////////////////////////////////////////
 
 
 
